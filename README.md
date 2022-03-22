@@ -1,0 +1,1 @@
+# sap-warehouse-available-stock-sql
